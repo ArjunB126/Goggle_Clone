@@ -34,3 +34,19 @@ body{
     color: white;
     border-radius: 1px;
   }
+
+  header .leftOptions input:hover{
+    -webkit-box-shadow: 0 1px 0 rgba(0,0,0,.15);
+    box-shadow: 0 1px 0 rgba(0,0,0,.15);
+  }
+  .topBarIcon{
+    display: inline-block;
+    position: relative;
+    height: 14px;
+    width: 14px;
+    vertical-align: middle;
+  }
+  .topBarCircle{
+    height: 50px;
+    width: 50px;
+  }
