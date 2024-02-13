@@ -77,6 +77,8 @@ header .leftOptions input{
     padding-left: 10px;
     padding-right: 10px;
   }
+
+  /* This is a CSS style for the search area section */
   section .searchArea .searchBox .searchBar .search input{
     border: none;
     background-color: transparent;
